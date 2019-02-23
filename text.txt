@@ -1,2 +1,2 @@
 Some of my article
-https://medium.com/@ankitgarg307/inside-out-to-dynamodb-6e8581ea1c1b 
+https://medium.com/@ankitgarg307/inside-out-to-dynamodb-6e8581ea1c1b
